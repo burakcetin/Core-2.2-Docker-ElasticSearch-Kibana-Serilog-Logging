@@ -1,1 +1,1 @@
-# Core-2.2-ELK-Kibana-Serilog-Logging
+# Docker container Asp.Net Core 2.2 ile Elasticsearch, kibana ve Serilog kullanarak logging örneği.
