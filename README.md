@@ -1,0 +1,1 @@
+# Core-2.2-ELK-Kibana-Serilog-Logging
